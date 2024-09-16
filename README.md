@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**LeaHerrera/LeaHerrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola, soy Lea Valentina Herrera Guevara! 👋
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lea-valentina-herrera-ab3b14273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy una estudiante de Desarrollo de Aplicaciones Multiplataforma. Me apasiona la programacion y me encanta colaborar en proyectos desafiantes.
+
+- 💼 **Trabajo Actual**: [Practicas, CAIXABANC TECK- Desarrolladora REACT]
+- 🌱 **Actualmente Aprendiendo**: [Python, React]
+- 💬 **Dominio de**: [Android Studio - Kotlin]
+
+## Habilidades
+
+- **Lenguajes de Programación**: [Kotlin, Java, JavaScript, Python, C#]
+- **Frameworks y Librerías**: [Ktor, React, Tensorflow]
+- **Herramientas y Tecnologías**: [Git, PostgreSQL]
+- **Otros**: [Testing]
+
+## Contacto
+
+- 📧 **Correo Electrónico**: [lea.herrera.7e7@itb.cat](mailto:tu.email@dominio.com)
+- 🧑‍💻 **Perfil en GitHub**: [github.com/LeaHerrera](https://github.com/LeaHerrera)
+
+---
+
+¡Gracias por visitar mi perfil! No dudes en contactarme si quieres charlar sobre tecnología, colaborar en proyectos, o simplemente decir hola. 😊
